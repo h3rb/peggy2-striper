@@ -9,9 +9,10 @@ Description
 
 Peggy2 Stripe Morpher
 
+Makes your Peggy2 look like a 1970s TV sci-fi panel with ever-changing morphing Qix-based animations that have varying parameters and constraints.
+
 - Written for 25 parallel strips of RGBW...R configuration (vertically homogenous RGBW x-aligned), I made my Peggy2 off-spec instead of making square pixels I made a line of pixels similar to actual phosphor CRT pixel configurations on classic "boob tube" television sets.  Same color is aligned along a vertical line creating about 9 pixels wide (9.25 to be precise as first and last LED columns are both red) and 25 pixels tall instead of the grid configuration found on most peggy2 RGBWs.
 - Works fine with RGBW square "superpixel" or monochrome or other off-spec configurations
-- Makes your Peggy2 look like a 1970s TV sci-fi panel with ever-changing morphing Qix-based animations that have varying parameters and constraints.
 
  Author: 2014 (c) Herbert Elwood Gilliland III
  Arduino sketch code for Peggy 2.0, using the Peggy2 library, version 0.2.  
