@@ -9,7 +9,7 @@ Description
 
 Peggy2 Stripe Morpher
 
-- Written for 25 parallel strips of RGBW...R configuration (vertically homogenous RGBW x-aligned)
+- Written for 25 parallel strips of RGBW...R configuration (vertically homogenous RGBW x-aligned), I made my Peggy2 off-spec instead of making square pixels I made a line of pixels similar to actual phosphor CRT pixel configurations on classic "boob tube" television sets.
 - Works fine with RGBW square "superpixel" or monochrome or other off-spec configurations
 - Based on Qix Peggy2Lib demo.
 
