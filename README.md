@@ -10,7 +10,7 @@ Description
 Peggy2 Stripe Morpher
 
 - Written for 25 parallel strips of RGBW...R configuration (vertically homogenous RGBW x-aligned)
-- Works fine with RGBW (square "superpixel") or monochrome or other off-spec configurations
+- Works fine with RGBW square "superpixel" or monochrome or other off-spec configurations
 - Based on Qix Peggy2Lib demo.
 
  Author: 2014 (c) Herbert Elwood Gilliland III
