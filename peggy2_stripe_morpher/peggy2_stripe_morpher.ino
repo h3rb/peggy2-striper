@@ -211,7 +211,7 @@ void loop()                     // run over and over again
   if ( FRAME > 1000 ) FRAME=1;
   if ( FRAME == 1 || random(1,1000) == 69 ) {
    do {
-    if ( random(1,10) > 5 ) {
+    if ( random(1,10) > 7 ) {
      CLEAR_DELAY=random(0,200);
      DELAY=random(0,60);
     } else {
@@ -221,7 +221,7 @@ void loop()                     // run over and over again
     active=random(1,QIXES);
     if ( random(1,10) < 5 ) {
       _constrain_x=false;
-      _constrain_y=true;
+      _constrain_y=false;
     } else {
      _constrain_x=random(1,10) > 4;
      _constrain_y=random(1,10) > 4;
